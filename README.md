@@ -6,13 +6,16 @@ A Password encoder using C++ programming language
 features -:
 
 2 digits = swaps the two digits (using pointers)
+
 3 digits = swaps the digits (using pointers)
+
 4 or more = each digit will be repleaced by the remainder when that difit is multiplied by 3 and divided by 10
+
 EXTRA PROTECTION = if the user entered value is 8 they can enable extra protection by swapping each encoded digit with another place eg ( 1st digit with 8th digits, 2nd digits with 7th digits, 3rd digit with 6th digit)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Knowledge -: Pointers, Intermediate mathematic usage, functions
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
